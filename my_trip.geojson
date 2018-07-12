@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3511063,
+          32.0267951
+        ]
+      },
+      "properties": {
+        "Location": "Manikaran, India",
+        "Date": "2017-12-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.3511063,
+            32.0267951
+          ],
+          [
+            74.8624092,
+            24.4763852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8624092,
+          24.4763852
+        ]
+      },
+      "properties": {
+        "Location": "Neemach, India",
+        "Date": "2018-02-11"
+      }
+    }
+  ]
+}
