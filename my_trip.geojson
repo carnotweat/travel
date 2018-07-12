@@ -235,6 +235,36 @@
             32.99149620000001
           ],
           [
+            75.8577258,
+            22.7195687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8577258,
+          22.7195687
+        ]
+      },
+      "properties": {
+        "Location": "Indore, India",
+        "Date": "2017-11-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8577258,
+            22.7195687
+          ],
+          [
             77.3511063,
             32.0267951
           ]
