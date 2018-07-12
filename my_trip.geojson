@@ -85,6 +85,36 @@
             15.2993265
           ],
           [
+            73.8567437,
+            18.5204303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567437,
+          18.5204303
+        ]
+      },
+      "properties": {
+        "Location": "Pune, India",
+        "Date": "2016-10-31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8567437,
+            18.5204303
+          ],
+          [
             80.94616599999999,
             26.8466937
           ]
@@ -173,6 +203,36 @@
           [
             80.94616599999999,
             26.8466937
+          ],
+          [
+            72.8776559,
+            19.0759837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8776559,
+          19.0759837
+        ]
+      },
+      "properties": {
+        "Location": "Mumbai, India",
+        "Date": "2017-02-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8776559,
+            19.0759837
           ],
           [
             79.4191795,
