@@ -6,6 +6,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          79.4191795,
+          13.6287557
+        ]
+      },
+      "properties": {
+        "Location": "Tirupati, India",
+        "Date": "2017-03-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.4191795,
+            13.6287557
+          ],
+          [
+            77.3511063,
+            32.0267951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           77.3511063,
           32.0267951
         ]
