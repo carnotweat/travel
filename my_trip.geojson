@@ -85,6 +85,96 @@
             15.2993265
           ],
           [
+            80.94616599999999,
+            26.8466937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.94616599999999,
+          26.8466937
+        ]
+      },
+      "properties": {
+        "Location": "Lucknow, India",
+        "Date": "2016-03-09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.94616599999999,
+            26.8466937
+          ],
+          [
+            85.8314655,
+            19.8133822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8314655,
+          19.8133822
+        ]
+      },
+      "properties": {
+        "Location": "Puri, India",
+        "Date": "2016-12-09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.8314655,
+            19.8133822
+          ],
+          [
+            80.94616599999999,
+            26.8466937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.94616599999999,
+          26.8466937
+        ]
+      },
+      "properties": {
+        "Location": "Lucknow, India",
+        "Date": "2017-01-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.94616599999999,
+            26.8466937
+          ],
+          [
             79.4191795,
             13.6287557
           ]
