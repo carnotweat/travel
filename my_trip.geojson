@@ -6,6 +6,96 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          77.5945627,
+          12.9715987
+        ]
+      },
+      "properties": {
+        "Location": "Bangalore, India",
+        "Date": "2010-09-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5945627,
+            12.9715987
+          ],
+          [
+            80.2707184,
+            13.0826802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2707184,
+          13.0826802
+        ]
+      },
+      "properties": {
+        "Location": "Chennai, India",
+        "Date": "2010-09-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2707184,
+            13.0826802
+          ],
+          [
+            74.12399599999999,
+            15.2993265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.12399599999999,
+          15.2993265
+        ]
+      },
+      "properties": {
+        "Location": "Goa, India",
+        "Date": "2012-03-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.12399599999999,
+            15.2993265
+          ],
+          [
+            79.4191795,
+            13.6287557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           79.4191795,
           13.6287557
         ]
