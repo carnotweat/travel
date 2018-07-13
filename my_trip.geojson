@@ -85,6 +85,96 @@
             15.2993265
           ],
           [
+            73.8567437,
+            18.5204303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567437,
+          18.5204303
+        ]
+      },
+      "properties": {
+        "Location": "Pune, India",
+        "Date": "2014-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8567437,
+            18.5204303
+          ],
+          [
+            74.31884099999999,
+            14.5478586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.31884099999999,
+          14.5478586
+        ]
+      },
+      "properties": {
+        "Location": "Gokarna, India",
+        "Date": "2015-08-26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.31884099999999,
+            14.5478586
+          ],
+          [
+            76.46002399999999,
+            15.3350132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.46002399999999,
+          15.3350132
+        ]
+      },
+      "properties": {
+        "Location": "Hampi, India",
+        "Date": "2015-09-26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.46002399999999,
+            15.3350132
+          ],
+          [
             76.6393805,
             12.2958104
           ]
@@ -113,6 +203,36 @@
           [
             76.6393805,
             12.2958104
+          ],
+          [
+            77.0266383,
+            28.4594965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0266383,
+          28.4594965
+        ]
+      },
+      "properties": {
+        "Location": "Gurgaon",
+        "Date": "2016-06-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.0266383,
+            28.4594965
           ],
           [
             73.8567437,
@@ -323,6 +443,36 @@
           [
             74.93181729999999,
             32.99149620000001
+          ],
+          [
+            75.0376325,
+            23.3341696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0376325,
+          23.3341696
+        ]
+      },
+      "properties": {
+        "Location": "Ratlam, India",
+        "Date": "2017-10-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.0376325,
+            23.3341696
           ],
           [
             75.8577258,
@@ -553,6 +703,36 @@
       "properties": {
         "Location": "Gulbarga, India",
         "Date": "2016-11-02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.8342957,
+            17.329731
+          ],
+          [
+            74.5510856,
+            26.489749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5510856,
+          26.489749
+        ]
+      },
+      "properties": {
+        "Location": "Pushkar, India",
+        "Date": "2019-12-02"
       }
     }
   ]
