@@ -1,0 +1,1 @@
+Entirely with org-mode and here are some goodies 
