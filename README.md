@@ -1,2 +1,2 @@
 Entirely with org-mode and here are some goodies
-![alt text](/home/k/PIctures/rm.png)
+![alt text](https://raw.githubusercontent.com/carnotweat/travel/master/rm.png)
