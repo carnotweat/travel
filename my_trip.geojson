@@ -1,0 +1,559 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5945627,
+          12.9715987
+        ]
+      },
+      "properties": {
+        "Location": "Bangalore, India",
+        "Date": "2010-09-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5945627,
+            12.9715987
+          ],
+          [
+            80.2707184,
+            13.0826802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2707184,
+          13.0826802
+        ]
+      },
+      "properties": {
+        "Location": "Chennai, India",
+        "Date": "2010-09-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2707184,
+            13.0826802
+          ],
+          [
+            74.12399599999999,
+            15.2993265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.12399599999999,
+          15.2993265
+        ]
+      },
+      "properties": {
+        "Location": "Goa, India",
+        "Date": "2012-03-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.12399599999999,
+            15.2993265
+          ],
+          [
+            76.6393805,
+            12.2958104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6393805,
+          12.2958104
+        ]
+      },
+      "properties": {
+        "Location": "Mysore",
+        "Date": "2015-10-26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.6393805,
+            12.2958104
+          ],
+          [
+            73.8567437,
+            18.5204303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567437,
+          18.5204303
+        ]
+      },
+      "properties": {
+        "Location": "Pune, India",
+        "Date": "2016-10-31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8567437,
+            18.5204303
+          ],
+          [
+            80.94616599999999,
+            26.8466937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.94616599999999,
+          26.8466937
+        ]
+      },
+      "properties": {
+        "Location": "Lucknow, India",
+        "Date": "2016-03-09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.94616599999999,
+            26.8466937
+          ],
+          [
+            85.8314655,
+            19.8133822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8314655,
+          19.8133822
+        ]
+      },
+      "properties": {
+        "Location": "Puri, India",
+        "Date": "2016-12-09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.8314655,
+            19.8133822
+          ],
+          [
+            80.94616599999999,
+            26.8466937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.94616599999999,
+          26.8466937
+        ]
+      },
+      "properties": {
+        "Location": "Lucknow, India",
+        "Date": "2017-01-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.94616599999999,
+            26.8466937
+          ],
+          [
+            72.8776559,
+            19.0759837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8776559,
+          19.0759837
+        ]
+      },
+      "properties": {
+        "Location": "Mumbai, India",
+        "Date": "2017-02-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8776559,
+            19.0759837
+          ],
+          [
+            79.4191795,
+            13.6287557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4191795,
+          13.6287557
+        ]
+      },
+      "properties": {
+        "Location": "Tirupati, India",
+        "Date": "2017-03-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.4191795,
+            13.6287557
+          ],
+          [
+            74.93181729999999,
+            32.99149620000001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.93181729999999,
+          32.99149620000001
+        ]
+      },
+      "properties": {
+        "Location": "Katra, India",
+        "Date": "2017-07-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.93181729999999,
+            32.99149620000001
+          ],
+          [
+            75.8577258,
+            22.7195687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8577258,
+          22.7195687
+        ]
+      },
+      "properties": {
+        "Location": "Indore, India",
+        "Date": "2017-11-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8577258,
+            22.7195687
+          ],
+          [
+            77.3511063,
+            32.0267951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3511063,
+          32.0267951
+        ]
+      },
+      "properties": {
+        "Location": "Manikaran, India",
+        "Date": "2017-12-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.3511063,
+            32.0267951
+          ],
+          [
+            76.9904825,
+            29.6856929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9904825,
+          29.6856929
+        ]
+      },
+      "properties": {
+        "Location": "Karnal, India",
+        "Date": "2018-01-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.9904825,
+            29.6856929
+          ],
+          [
+            74.8624092,
+            24.4763852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8624092,
+          24.4763852
+        ]
+      },
+      "properties": {
+        "Location": "Neemach, India",
+        "Date": "2018-02-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8624092,
+            24.4763852
+          ],
+          [
+            77.02968369999999,
+            26.7341201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02968369999999,
+          26.7341201
+        ]
+      },
+      "properties": {
+        "Location": "Hindaun, India",
+        "Date": "2017-07-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.02968369999999,
+            26.7341201
+          ],
+          [
+            78.2676116,
+            30.0869281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2676116,
+          30.0869281
+        ]
+      },
+      "properties": {
+        "Location": "Rishikesh, India",
+        "Date": "2016-08-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.2676116,
+            30.0869281
+          ],
+          [
+            77.7064137,
+            28.9844618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7064137,
+          28.9844618
+        ]
+      },
+      "properties": {
+        "Location": "Meerut, India",
+        "Date": "2016-12-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.7064137,
+            28.9844618
+          ],
+          [
+            76.8342957,
+            17.329731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8342957,
+          17.329731
+        ]
+      },
+      "properties": {
+        "Location": "Gulbarga, India",
+        "Date": "2016-11-02"
+      }
+    }
+  ]
+}
