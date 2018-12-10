@@ -8,4 +8,6 @@ Orgtbl interfaces nicely with MongoDB. That said, the MongoDB evengelist I Knew 
 
 On the contrary, he always seemed to be scraping by..... strange fellow !
 
-I have similar [view](https://twitter.com/nonsameer/status/1068073829547687938) for oracle . 
+I have similar
+[view](https://twitter.com/nonsameer/status/1068073829547687938)
+[1](https://twitter.com/nonsameer/status/1067876611578445824) for oracle etc. 
