@@ -10,4 +10,7 @@ On the contrary, he always seemed to be scraping by..... strange fellow !
 
 I have similar
 [view](https://twitter.com/nonsameer/status/1068073829547687938)
-[1](https://twitter.com/nonsameer/status/1067876611578445824) for oracle etc. 
+	[1](https://twitter.com/nonsameer/status/1067876611578445824)      
+	[2](https://twitter.com/nonsameer/status/1074371029747884033)     
+		
+	for oracle etc. 
