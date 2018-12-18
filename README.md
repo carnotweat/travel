@@ -16,4 +16,7 @@ I have similar
 	for oracle sql etc.       
 	Not that I abandon them absolutely.
 	For instance I burn my friday night onthings like using coq to
-	mechanise semantics of sql queries . [ref](https://hal.archives-ouvertes.fr/hal-01830255v2/document)
+	mechanise semantics of sql queries .          
+
+[ref](https://hal.archives-ouvertes.fr/hal-01830255v2/document)
+	
