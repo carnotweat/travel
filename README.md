@@ -13,4 +13,7 @@ I have similar
 	[1](https://twitter.com/nonsameer/status/1067876611578445824)      
 	[2](https://twitter.com/nonsameer/status/1074371029747884033)     
 		
-	for oracle etc. 
+	for oracle sql etc.       
+	Not that I abandon them absolutely.
+	For instance I burn my friday night onthings like using coq to
+	mechanise semantics of sql queries . [ref](https://hal.archives-ouvertes.fr/hal-01830255v2/document)
