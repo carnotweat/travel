@@ -11,9 +11,10 @@ On the contrary, he always seemed to be scraping by..... strange fellow !
 I have similar
 [view](https://twitter.com/nonsameer/status/1068073829547687938)
 	[1](https://twitter.com/nonsameer/status/1067876611578445824)      
-	[2](https://twitter.com/nonsameer/status/1074371029747884033)     
+	[2](https://twitter.com/nonsameer/status/1074371029747884033)         
+	[wrappers in elisp or otherwise](https://twitter.com/nonsameer/status/1075222579953192960)
 		
-	for oracle sql etc.       
+	for oracle sql etc.  and development in general     
 	Not that I abandon them absolutely.
 	For instance I burn my friday night onthings like using coq to
 	mechanise semantics of sql queries .          
